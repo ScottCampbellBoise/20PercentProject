@@ -1,25 +1,20 @@
-# Proposal: [title of project]
-## [subtitle that helps describe the project]
-[Names]
+# Proposal: [Tennis Tour Pro]
+## [A graphical game to represent a game of tennis]
+[Scott Campbell]
 
 ## Needs and Opportunities
-Explain the problem you have noticed that needs to be solved with a project
-like yours. This is also your hook, so make sure you grab our attention.
+In today's society, the extravagance and complexity of popular sports has excluded many people from enjoying the sport. This game aims to produce a reachable, fun to play game that is available for every person, without the inflated costs related to beggining a new sport. This game has taken the classic game of Pong and brought it to a whole new level of graphics and fun accesories that allows the player to personalize the game to their desires.'
 
 ## Audience / Clients / Users
-Explain who will benefit from your project. How will you be able to access
-them for testing?
+For all those people who desire to try a new sport, such as tennis, this game is perfect to introduce the user to the adrenaline rush and intriguing complexities related with tennis. However, this game is not soely limited to such people, but also anyone 'shooting the breeze' or 'hanging out' who is interested in playing a fun and interesting game. Every one has that point in a day where they just need to waste time, all of whom would benifit tremendously from this game.'
 
 ## Product
-What is the actual product you will show this spring. This project may be made
-of atoms or bits, but you must have something to show. I'm not interested
-seeing a bunch of great ideas at the end of the year. I want to see things.
+At the end of the year, I plan to show a complex game to represent tennis graphically on the users computer, by using the programing language of Java, in BlueJ. The Program will be able to allow the user to pick from a range of different court styles, racket styles, player styles, and will even be able to personalize the game with thier names. For people who wish to play against the computer, multiple levels of difficulty could be chosen based on the Users Preferance.'
 
 ## Timeline
-What is your monthly timeline for this project. I want to see a list of
-deliverables with deadlines. You may find that the timeline needs adjustment
-during the course of the year, which may be fine. Check in with me if that\u2019s
-the case. 
+Deliverable 1: By Febuary 26, i plan to have the game created with the basic level graphics, nothing personalized, and allow for only two human players to play. 
+Deliverable 2: By April 1, I plan to have some of the artificial intlegence completed, mainly only one level of complexity, as well as advanced graphics with the personalized options completed, however, the different levels of computer intelegence will not all be completed.
+Deliverable 3: By this time, All the computer intelegence will have been completed, as well as all the personalized graphics and different levels of difficulty in the multiplayer levels as well as the final version of the game.'
 
 | Date          | Deliverable   |
 | ------------- | ------------- |
@@ -28,10 +23,7 @@ the case.
 | April 29      | Deliverable 3 |
 
 ## Reality Check
-I am looking for moonshots here, but even moonshots need budgets. What
-equipment are you going to need? What other capital expenditures do you
-anticipate, and how will you meet them?
+For this game, i have a very limited budget, and thusly, i plan to keep the project limited to the equipment i all ready have, which is namely my computer, and the java programing language installed upon it. Depending upon the cost for adding my app to apple store, i might consider adding it to the app store. In other words, I don't plan on having any additional costs to the games.'
 
 ## Conclusion
-Wrap it up. Why are you fired up about this project? Inspire us to support you,
-and give us a great reason to approve your project.
+Tennis Tour Pro aims to be a fun and inspiring game to motivate common people to play and to enjoy the amazing game of tennis. I have been inspired to create this game based upon my deep pasion for a fun and tireless app of my favorite sport both to watch and to play. This game will provide a fun and interesting game that, unlike most other games on the market, does not get old, and boring after the first week of play.
