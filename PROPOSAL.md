@@ -12,8 +12,8 @@ For all those people who desire to try a new sport, such as tennis, this game is
 At the end of the year, I plan to show a complex game to represent tennis graphically on the users computer, by using the programing language of Java, in BlueJ. The Program will be able to allow the user to pick from a range of different court styles, racket styles, player styles, and will even be able to personalize the game with thier names. For people who wish to play against the computer, multiple levels of difficulty could be chosen based on the Users Preferance.'
 
 ## Timeline
-Deliverable 1: By Febuary 26, i plan to have the game created with the basic level graphics, nothing personalized, and allow for only two human players to play. 
-Deliverable 2: By April 1, I plan to have some of the artificial intlegence completed, mainly only one level of complexity, as well as advanced graphics with the personalized options completed, however, the different levels of computer intelegence will not all be completed.
+Deliverable 1: By Febuary 26, i plan to have the game created with the basic level graphics, nothing personalized, and allow for only one human player to play agaist a basic Artificial Intelegence. 
+Deliverable 2: By April 1, I plan to have some of the artificial intlegence completed, mainly only one level of complexity, as well as advanced graphics with the personalized options completed, and the two player game option will be made, but not finalized.
 Deliverable 3: By this time, All the computer intelegence will have been completed, as well as all the personalized graphics and different levels of difficulty in the multiplayer levels as well as the final version of the game.'
 
 | Date          | Deliverable   |
