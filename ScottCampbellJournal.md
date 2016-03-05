@@ -1,5 +1,5 @@
 # Scott Campbell's Journal
-## [20% Project Proposal]
+## [20% Project Journal]
 [Scott Campbell]
 
 ## February 5, 2016
