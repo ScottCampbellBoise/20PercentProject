@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=difficulty\ gameColor
+comment0.target=OnePlayer(int,\ java.awt.Color)
+comment1.params=difficulty\ gameImage
+comment1.target=OnePlayer(int,\ java.awt.image.BufferedImage)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ step()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=e
+comment5.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=g
+comment8.target=void\ drawCourt(java.awt.Graphics)
+comment9.params=draw
+comment9.target=void\ setPlayer(boolean)
+numComments=10
